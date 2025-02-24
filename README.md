@@ -1,4 +1,4 @@
-# Home Assignment for TypeScript Developers
+<img width="1246" alt="Screenshot 2025-02-24 at 7 39 04 AM" src="https://github.com/user-attachments/assets/05eb503f-9a8f-40d1-9546-1c7928fc49bc" /># Home Assignment for TypeScript Developers
 
 This project is a home assesment for Espresso Labs.
 
@@ -36,3 +36,12 @@ I decided to use Redux for state management since I find it easier to use than o
 I also implemented a bit of css to make the page look nice and somewhat responsive, but it could certainly use some optimizations before being production-ready on a mobile device :)
 
 If there are any questions, I would be more than happy to respond to them and discuss the project further in an interview!
+
+Video and photos should be in the media folder, but I will upload them here as well:
+<img width="1246" alt="Screenshot 2025-02-24 at 7 39 04 AM" src="https://github.com/user-attachments/assets/4222dda2-b59d-4641-a903-eb77ad677e41" />
+<img width="407" alt="Screenshot 2025-02-24 at 7 39 43 AM" src="https://github.com/user-attachments/assets/1d2b8448-f3fa-4f78-8660-d074d2268c23" />
+<img width="1226" alt="Screenshot 2025-02-24 at 7 39 52 AM" src="https://github.com/user-attachments/assets/f12f86cf-601f-4e31-8b0e-cdc7dee5cd78" />
+<img width="1251" alt="Screenshot 2025-02-24 at 7 40 06 AM" src="https://github.com/user-attachments/assets/8ae8669c-8ea6-4a51-85b9-e704d4b58861" />
+<img width="274" alt="Screenshot 2025-02-24 at 7 40 18 AM" src="https://github.com/user-attachments/assets/655c7e6b-d0d5-452c-8608-cd0962776b52" />
+
+https://github.com/user-attachments/assets/d00ada7e-6bf1-4041-9fa7-db4099622c15
