@@ -1,4 +1,4 @@
-<img width="1246" alt="Screenshot 2025-02-24 at 7 39 04 AM" src="https://github.com/user-attachments/assets/05eb503f-9a8f-40d1-9546-1c7928fc49bc" /># Home Assignment for TypeScript Developers
+# Home Assignment for TypeScript Developers
 
 This project is a home assesment for Espresso Labs.
 
