@@ -1,4 +1,3 @@
-// store/agentSlice.ts
 import { createSlice, PayloadAction } from "@reduxjs/toolkit";
 import { Agent } from "../models/Agent";
 import { RootState } from "./store";

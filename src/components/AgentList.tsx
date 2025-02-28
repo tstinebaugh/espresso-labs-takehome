@@ -1,4 +1,3 @@
-// components/AgentList.tsx
 import { useState } from "react";
 import { useAppSelector, useAppDispatch } from "../app/hooks";
 import { deleteAgent, selectFilteredAgents } from "../store/agentSlice";
