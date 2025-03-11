@@ -1,18 +1,4 @@
-# Home Assignment for TypeScript Developers
-
-This project is a home assesment for Espresso Labs.
-
-Per the requirements, it is a web app that allows admins to view a list of network agents, create, update, and delete them. It uses Typescript, React, and Redux for state management and local storage.
-
-I time-boxed this assignment to approximately 2 hours, and implemented the following additional features:
-
-1. Search and Filter
-2. Responsive Design
-3. Unit Tests - These mainly focused on the local storage persistence, and form validation. I would like to add frontend testing to the project as well.
-
----
-
-Per the description the app is runnable with the following commands:
+This app is runnable with the following commands:
 
 ```bash
 npm install
