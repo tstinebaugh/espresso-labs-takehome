@@ -19,10 +19,6 @@ const loadInitialState = (): Agent[] => {
   }
 };
 
-interface AgentState {
-  agents: Agent[];
-}
-
 const initialState: AgentState = {
   agents: loadInitialState(),
   searchTerm: "",
